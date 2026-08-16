@@ -81,7 +81,7 @@ a:focus-visible {
   grid-template-columns: minmax(0, 1fr) 300px;
   gap: clamp(48px, 7vw, 88px);
   align-items: center;
-  padding-block: 72px 92px;
+  padding-block: 72px 56px;
 }
 
 .eyebrow,
@@ -212,7 +212,7 @@ a:focus-visible {
 }
 
 .project-section {
-  padding-block: 72px 110px;
+  padding-block: 44px 110px;
 }
 
 .section-kicker {
